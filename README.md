@@ -6,7 +6,7 @@ A cheap stealth salvage ship, uses maneuver and shrouded triangle thrusters to c
 
 148 m/s max speed dry, wet speed will vary.
 
-T2 maneuver thrusterswith no trails, 4 triangle thrusters at the front have shrouds to reduce trail visability.
+T2 maneuver thrusters with no trails, 4 triangle thrusters at the front have shrouds to reduce trail visibility.
 
 805881.188 kg kg in weight.
 
@@ -60,9 +60,9 @@ Total cost 207883 credits
 
 Starting as a random test at shrouding the trail of thrusters, I took the shrouded thruster pod i had made, duplicated it, and ran a salvage bed between the two.
 
-The Tiisin has become my go to salvage ship when searching the graveyard, checking event locations or looting small amouts of salvage and/or ore.
+The Tiisin has become my go to salvage ship when searching the graveyard, checking event locations or looting small amounts of salvage and/or ore.
 
-The shrouded thrusters are not perfect, and leave a less visably trail when at full speed, this trail becomes completly covered at low speeds.
+The shrouded thrusters are not perfect, and leave a less viable trail when at full speed, this trail becomes completely covered at low speeds.
 
 Going belly down and creeping slowly has proven to be good for slipping by most people you run into.
 
