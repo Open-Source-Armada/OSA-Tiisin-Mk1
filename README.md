@@ -4,54 +4,66 @@ A cheap stealth salvage ship, uses maneuver and shrouded triangle thrusters to c
 //Specs//
 
 
-150 m/s max speed dry, wet speed will vary.
+148 m/s max speed dry, wet speed will vary.
 
-T2 maneuver thrusters, no trails.
+T2 maneuver thrusterswith no trails, 4 triangle thrusters at the front have shrouds to reduce trail visability.
 
-109651.102 kg in weight.
+805881.188 kg kg in weight.
 
-Small salvage platform for quick looting.
+Salvage platform for quick looting, 4 crates for salvaging ore with recycle tool.
 
-Two small prop tanks for 2 million prop, 1 hours 10 mins estimated flight time.
+Basic ground RFs to see the distance to the surface when low flying/landing.
 
-One T1 fuel chamber + Two T1 generators, gens idle at 14.5% for 8 hours 30 mins idle time, estimated flight time 2 hours 30 mins.
+8 small prop tanks for 8 million prop, 55 mins estimated flight time.
+
+2 T1 fuel chamber + 6 T1 generators + 6 T1 enhancers, gens idle at 16.7% for 5 hours 15 mins idle time, estimated flight time 1 hours 45 mins.
 
 Basic script for current Fuel/Prop times.
 
-Uses basic FCU, roll is performed using Roll_Left and Roll_Right buttons, this is to allow fast handling by isolating the roll thrusters from the FCU/MFC.
+Uses advanced FCU.
 
 //Cost//
 
 
-Aeg 0.5 stacks (862 kv)
+Aeg 3.0 stacks (5235 kv)
 
-Aja 0.9 stacks (1499 kv)
+Aja 4.4 stacks (7553 kv)
 
-Bas 1.5 stacks (2584 kv)
+Ark 0.0 stacks (38 kv)
 
-Cha 1.3 stacks (2283 kv)
+Bas 7.8 stacks (13503 kv)
 
-Ice 1.2 stacks (2000 kv)
+Cha 6.0 stacks (10300 kv)
+
+Exo 0.4 stacks (660 kv)
+
+Ice 4.6 stacks (8000 kv)
+
+Kar 0.2 (385 kv)
 
 Kut 0.0 stacks (86 kv)
 
-Nhu 0.8 stacks (1447 kv)
+Nhu 2.5 stacks (4255 kv)
 
-Vok 2.1 stacks (3654 kv)
+Vok 8.1 stacks (13974 kv)
 
-Total ore 8.3 stacks (14415 kv)
+Total ore 377.0 stacks (63988 kv)
 
-Assembly cost 14998 credits
+Assembly cost 140543 credits
 
-Manufacturing cost 16402 credits
+Manufacturing cost 67340 credits
 
-Total cost 31399 credits
+Total cost 207883 credits
 
 //Tactics//
 
 
-This ship is designed to be a small, hard to spot salvage ship for recovering/looting key salvage like mounted weapons.
+Starting as a random test at shrouding the trail of thrusters, I took the shrouded thruster pod i had made, duplicated it, and ran a salvage bed between the two.
 
-Built using the Ghast as its base, it is cheap and disposible, and can be used in place of the ghast if you prefer looting on sight after aggressive action.
+The Tiisin has become my go to salvage ship when searching the graveyard, checking event locations or looting small amouts of salvage and/or ore.
 
-It mostly served as a recovery ship for close range salvaging at Arma, tho it has also been used by myself around Moon City.
+The shrouded thrusters are not perfect, and leave a less visably trail when at full speed, this trail becomes completly covered at low speeds.
+
+Going belly down and creeping slowly has proven to be good for slipping by most people you run into.
+
+It is also tough, once taking a full speed collision with the ground from over 1000m high, loosing only one prop tank.
